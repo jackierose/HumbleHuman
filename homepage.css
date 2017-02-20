@@ -1,7 +1,7 @@
-/*titlePhoto {
-        width: 50%;
-        height: 30%;
-}*/
+titlePhoto {
+        width="1000";
+        height="700";
+}
 
 h2 {
    position: absolute;
