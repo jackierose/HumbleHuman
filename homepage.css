@@ -1,9 +1,9 @@
 titlePhoto {
-  style="width:200px;
-        height:100px;
+  style="width:500px;
+        height:450px;
 }
 
-/*h2 {
+h2 {
    position: absolute;
    top: 200px;
    left: 0;
@@ -21,4 +21,4 @@ h2 span {
    background: rgb(0, 0, 0);
    background: rgba(0, 0, 0, 0.7);
    padding: 10px;
-} */
+}
